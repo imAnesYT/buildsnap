@@ -1,4 +1,4 @@
-# BuildSnap
+<h1 align="center">BuildSnap</h1>
 
 <p align="center">
   <a href="https://pypi.org/project/buildsnap/">
