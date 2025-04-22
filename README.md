@@ -40,7 +40,3 @@ buildsnap install --path /sdcard/MyPKG
 ```bash
 pip install buildsnap
 ```
-or
-```bash
-pip install git+https://github.com/imAnesYT/buildsnap#subdirectory=buildsnap
-```
